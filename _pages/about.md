@@ -1,14 +1,23 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Zihan Zhang(张子涵)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I'm a master's student in Electrical and Computer Engineering at Johns Hopkins University (JHU). Previously, I earned my Bachelor of Engineering in Computer Science from Northeast Forestry University, where I was advised by Prof. Mingyu Ji.
 
+🔬 Research Interests
+
+AI for Healthcare 🏥💡
+Medical Signal Processing 📡🧠
+Generative Large Language Models (LLMs) 🤖📜
+Image Object Detection 📷🎯
+I'm passionate about applying AI and deep learning techniques to tackle challenges in healthcare, medical imaging, and signal processing. My work involves developing novel machine learning models and leveraging deep learning for real-world applications.
+
+📫 Feel free to connect and collaborate! 🚀
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
