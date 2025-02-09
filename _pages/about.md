@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I'm a master's student in Electrical and Computer Engineering at Johns Hopkins University (JHU). Previously, I earned my Bachelor of Engineering in Computer Science from Northeast Forestry University, where I was advised by Prof. Mingyu Ji.
-My research interests include, but are not limited to:\n
+My research interests include, but are not limited to:\n11
 AI for Healthcare 🏥💡\n
 Medical Signal Processing 📡🧠\n
 Generative Large Language Models (LLMs) 🤖📜\n
