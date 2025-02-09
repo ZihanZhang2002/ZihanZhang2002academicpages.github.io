@@ -8,13 +8,8 @@ redirect_from:
 ---
 
 I'm a master's student in Electrical and Computer Engineering at Johns Hopkins University (JHU). Previously, I earned my Bachelor of Engineering in Computer Science from Northeast Forestry University, where I was advised by Prof. Mingyu Ji.
-My research interests include, but are not limited to:\n11
-- **AI for Healthcare** 🏥💡  
-- **Medical Signal Processing** 📡🧠  
-- **Generative Large Language Models (LLMs)** 🤖📜  
-- **Image Object Detection** 📷🎯  
-I'm passionate about applying AI and deep learning techniques to tackle challenges in healthcare, medical imaging, and signal processing. My work involves developing novel machine learning models and leveraging deep learning for real-world applications.
-📫 Feel free to connect and collaborate! 🚀
+- My research interests include, but are not limited to:**AI for Healthcare** 🏥💡, **Medical Signal Processing** 📡🧠, **Generative Large Language Models (LLMs)** 🤖📜, **Image Object Detection** 📷🎯  
+- 📫 Feel free to connect and collaborate! 🚀
 
 A data-driven personal website
 ======
