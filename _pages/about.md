@@ -16,8 +16,8 @@ Medical Signal Processing 📡🧠
 Generative Large Language Models (LLMs) 🤖📜
 Image Object Detection 📷🎯
 I'm passionate about applying AI and deep learning techniques to tackle challenges in healthcare, medical imaging, and signal processing. My work involves developing novel machine learning models and leveraging deep learning for real-world applications.
-
 📫 Feel free to connect and collaborate! 🚀
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
